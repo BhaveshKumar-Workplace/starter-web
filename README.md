@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a forked repo to learn how to use git with github
+This is a forked repo to learn how to use git with github. Rebasing example added
 
 ## Introduction
 
