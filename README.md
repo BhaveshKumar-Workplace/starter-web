@@ -20,5 +20,5 @@ Just Fork and keep learing! Add your own work too.
 
 ### Copyright
 
-2023 Git.training
+2023 Git.training. All Rights Reserved
 
