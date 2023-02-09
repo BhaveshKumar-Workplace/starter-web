@@ -16,8 +16,9 @@ Deployment can be of any web project or files
 
 ## How to contribute
 
-Just Fork and keep learing!
+Just Fork and keep learing! Add your own work too.
 
 ### Copyright
 
 2023 Git.training
+
