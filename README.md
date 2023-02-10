@@ -9,7 +9,7 @@ We are learning git commands here
 
 ## Purpose
 
-As mentioned above we are learning git basic commands
+As mentioned above we are learning git basic commands with github
 
 ## Deployement
 
